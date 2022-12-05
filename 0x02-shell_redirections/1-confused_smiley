@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "\"(00)'" > 1-confused_smiley
+echo "\"(00)'" > 1-confused_smiley | cat 1-confused_smiley
